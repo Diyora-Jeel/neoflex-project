@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632742955190",
+    "project_id": "neoflex-12e6b",
+    "storage_bucket": "neoflex-12e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632742955190:android:b16dde36554b0bb6cabe17",
+        "android_client_info": {
+          "package_name": "com.example.neoflex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnDNpY77RAo-yh1uDuVHPPEIDp0sAbPpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
